@@ -17,8 +17,6 @@ body {
 
 .flip-card-front> img{
     /* max-height: 250px; */
-  filter: blur(0px);
-  -webkit-filter: blur(1.2px);
 }
 
  .card-title{
