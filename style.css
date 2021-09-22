@@ -9,7 +9,7 @@ body {
 
 .headingImg{
     max-width:100%;
-    max-height:400px
+    /* max-height:400px */
 }
 .card{
     border: none;
@@ -74,4 +74,19 @@ body {
     background-color: #2980b9;
     color: white;
     transform: rotateY(180deg);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+
+  .list-group{
+    margin:10px !important;
+    bottom: 0 !important;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .flip-card-back{
+    justify-content: space-between;
   }
