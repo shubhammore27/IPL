@@ -15,9 +15,9 @@ body {
     border: none;
 }
 
-.flip-card-front> img{
+/* .flip-card-front> img{
     /* max-height: 250px; */
-}
+/* } */ 
 
  .card-title{
     text-align: center;
